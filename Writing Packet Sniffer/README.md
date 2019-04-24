@@ -1,5 +1,5 @@
 ## ARP Spoofer & Packet Sniffer 
-#### Packet Sniffer SCRIPS !!
+#### Packet Sniffer SCRIPT !!
 ```
 #!/usr/bin/env python
 
@@ -33,7 +33,7 @@ def process_sniffed_packet(packet):
 sniff("eth0") 
 ```
 
-#### ARP Spoofer SCRIPS !!
+#### ARP Spoofer SCRIPT !!
 ```
 #!/usr/bin/env/ python
 
